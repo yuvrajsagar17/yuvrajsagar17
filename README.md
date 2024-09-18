@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm a Machine Learning Engineer with a strong focus on optimizing Large Language Models (LLMs) and deep learning frameworks. My passion lies in fine-tuning models and maximizing the use of Nvidia GPUs through custom CUDA kernel optimization.
+## 👋 Hi there,
 
-🔬 My current work includes:
+I'm a Machine Learning Engineer with a strong focus on optimizing Large Language Models (LLMs) and Deep Learning Frameworks. I like fine-tuning, merging and evaluating LLM models. Inspired from [llm.c](https://github.com/karpathy/llm.c) by **Karpathy**, I also love to explore and maximizing the use of Nvidia GPUs through custom CUDA kernel optimization.
+
+# 🔬 My current work includes:
 
 - **axolotl-finetune**: In this project, I've implemented simple and multi-GPU finetuning for LLaMA models, conducted Nous evaluation benchmarks, and will soon integrate model quantization techniques.
-- **CUDA Kernel Development**: Through my contributions to open-source projects like "llm.c", I’m focused on writing high-performance CUDA C/C++ kernels to optimize model training on Nvidia hardware.
+- **llama.c**: Implemented LLama3 architecture using custom CUDA C/C++ kernels to attain high-performance for model pretraining on Nvidia GPUs.
 
 🚀 I'm also deeply interested in cutting-edge ML research, particularly in the evolution of LLMs and improving their pre-training efficiency.
 
