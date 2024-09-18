@@ -2,9 +2,6 @@
 
 I'm a Machine Learning Engineer with a strong focus on optimizing Large Language Models (LLMs) and Deep Learning Frameworks. I like fine-tuning, merging and evaluating LLM models. Inspired from [llm.c](https://github.com/karpathy/llm.c) by **Karpathy**. I also love to exploring and rewriting kernels to maximize the use of Nvidia GPUs using CUDA optimization.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sagar-514806227/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yuvrajsagar117)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ysagar117)
 
 ## 🔬 My current work includes:
 
@@ -16,3 +13,9 @@ I'm a Machine Learning Engineer with a strong focus on optimizing Large Language
 Feel free to explore my work and repositories!
 
 ---
+
+Get in touch
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sagar-514806227/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yuvrajsagar117)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ysagar117)
