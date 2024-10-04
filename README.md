@@ -1,6 +1,6 @@
 ## 👋 Hi there,
 
-I'm a Machine Learning Engineer with a strong focus on optimizing Large Language Models (LLMs) and Deep Learning Frameworks. I like fine-tuning, merging and evaluating LLM models. Inspired from [llm.c](https://github.com/karpathy/llm.c) by **Karpathy**. I also love to exploring and rewriting kernels to maximize the use of Nvidia GPUs using CUDA optimization.
+I'm a Deep Learning Engineer with a strong focus on optimizing Large Language Models (LLMs) and Deep Learning Frameworks. I like fine-tuning, merging and evaluating LLM models. Inspired from [llm.c](https://github.com/karpathy/llm.c) by **Karpathy**. I also love to exploring and rewriting kernels to maximize the use of Nvidia GPUs using CUDA optimization.
 
 
 ## 🔬 My current work includes:
