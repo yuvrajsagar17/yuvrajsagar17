@@ -11,7 +11,7 @@ Inspired by [llm.c](https://github.com/karpathy/llm.c) by *Andrej Karpathy*, I�
 
 Currently, I’m exploring multimodal and agentic AI systems, integrating speech, text, vision, and reasoning capabilities to build next-generation conversational and interactive intelligence
 
-## ⚙️ Engineering & Research Focus  
+### ⚙️ Engineering & Research Focus  
 
 - **LLMs & Transformers:** Pretraining, fine-tuning, model merging, evaluation, and quantization (GGUF, GPTQ).  
 - **RAG & Agentic AI Systems:** Building RAG and autonomous reasoning pipelines.  
@@ -19,7 +19,7 @@ Currently, I’m exploring multimodal and agentic AI systems, integrating speech
 - **Speech & ASR Models:** Working with opensource ASR Models such as *Whisper*, *HuBERT* etc., for real-time evaluation, conversational AI, and voice-based feedback systems.  
 - **AI Applications:** End-to-end intelligent systems using LLMs, ASR models, Agentic Workflows, and Multimodal Architectures including VLMs, SLMs, and LMMs to build scalable, context-aware, and interactive AI products.  
 
-## 🧠 Recent Projects  
+### 🧠 Recent Projects  
 
 - **Presentily**  
   AI-powered platform for improving speaking & presentation skills using *CrisperWhisper*, and opensource *HF Transformers* models. Features real-time AI feedback on fluency, confidence, vocabulary, and grammar, with *speech analytics* and *progress tracking*.  
@@ -34,18 +34,18 @@ Currently, I’m exploring multimodal and agentic AI systems, integrating speech
 - **NUST Bank Assistant (RAG System)**  
   Intelligent banking chatbot using *LLMs + RAG* with *FAISS*, *Qdrant*, *Cohere Rerank*, *SFT*, and *Guardrails*. Frontend developed using *Streamlit*  
 
-## 💡 Interests  
+### 💡 Interests  
 
 - Large Language Models & Multimodal AI  
 - Speech Recognition, Voice Chatbots, and Human-AI Interaction  
 - Model Optimization, Quantization, and GPU Systems  
 - Reading AI research papers & contributing to open-source ML projects  
 
-## 📫 Let’s Connect  
+### Let’s Connect  
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yuvraj-sagar)  
-- 🤗 [Hugging Face](https://huggingface.co/yuvraj17)  
-- 🧑‍💻 [GitHub](https://github.com/yuvrajsagar17)  
-
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sagar-514806227/)
+ [![HF](https://img.shields.io/badge/HuggingFace-FFDD00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/yuvraj17)
+ [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ysagar117) 
+ [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yuvrajsagar117)
 
 ⭐ *“Building intelligent systems that learn efficiently, reason autonomously, and communicate naturally.”*
