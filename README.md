@@ -47,5 +47,3 @@ Currently, I’m exploring multimodal and agentic AI systems, integrating speech
  [![HF](https://img.shields.io/badge/HuggingFace-FFDD00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/yuvraj17)
  [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ysagar117) 
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yuvrajsagar117)
-
-⭐ *“Building intelligent systems that learn efficiently, reason autonomously, and communicate naturally.”*
