@@ -45,5 +45,5 @@ Currently, I’m exploring multimodal and agentic AI systems, integrating speech
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sagar-514806227/)
  [![HF](https://img.shields.io/badge/HuggingFace-FFDD00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/yuvraj17)
- [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ysagar117) 
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yuvrajsagar117)
+ [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ysagar117) 
